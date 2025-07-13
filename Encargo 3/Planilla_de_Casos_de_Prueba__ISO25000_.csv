@@ -1,0 +1,9 @@
+ID Prueba,Funcionalidad,Dato de entrada,Resultado esperado,Resultado obtenido,Estado,Evidencia,Responsable
+CP-001,Inicio de sesion,Usuario y contraseña validos,Acceso al sistema,Acceso exitoso,Aprobado,Mostrada en presentacion,Bastian Muñoz
+CP-002,Inicio de sesion,Usuario incorrecto,Mensaje de error,Mensaje de error mostrado,Aprobado,Mostrada en presentacion,Bastian Muñoz
+CP-003,Registro de usuario,Datos validos,Usuario registrado correctamente,Registro exitoso,Aprobado,Mostrada en presentacion,Patrick Gonzalez
+CP-004,Agregar producto al carrito,Click en boton agregar,Producto añadido al carrito,Producto añadido correctamente,Aprobado,Mostrada en presentacion,Maximiliano Millacaris
+CP-005,Realizar compra,Productos en el carrito y metodo de pago valido,Compra registrada,Compra exitosa,Aprobado,Mostrada en presentacion,Patrick Gonzalez
+CP-006,Visualizar historial de compras,Usuario con compras anteriores,Lista de compras realizadas,Historial mostrado correctamente,Aprobado,Mostrada en presentacion,Bastian Muñoz
+CP-007,Cerrar sesion,Click en boton cerrar sesion,Redireccion a inicio,Redireccion realizada,Aprobado,Mostrada en presentacion,Maximiliano Millacaris
+CP-008,Vista de administracion,Acceso como staff,Panel administrativo,Panel accesible,Aprobado,Mostrada en presentacion,Patrick Gonzalez
